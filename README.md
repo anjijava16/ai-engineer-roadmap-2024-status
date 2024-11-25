@@ -31,7 +31,7 @@ The following table enlists learning resources and references that I found helpf
 https://www.youtube.com/playlist?list=PLIkXejH7XPT8x9iUGvlsYt44aPx6ns8BV
 
 
-| Skills                               | Resources |
+| Skills                               | Resources | Status |
 |------------------------------------|-----------|
 | **Beginner**                       |           |
 | Working with LLMs and APIs              | - Commonly used LLM APIs: [OpenAI](https://www.notion.so/Resources-34b331afa220479889666fb6e0f245f7?pvs=21), [Anthropic(Claude)](https://docs.anthropic.com/claude/reference/getting-started-with-the-api), [Hugging Face](https://huggingface.co/inference-api) |
